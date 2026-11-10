@@ -33,6 +33,8 @@ This article maps the field, then tests two influential studies against it.
   standardised evaluation, external validation and clinicians in the loop, reported gains cannot
   be taken as clinical progress.
 
+📄 [Download as PDF](synthetic-data-medical-imaging/Synthetic_Data_in_Medical_Image_Analysis.pdf) · 📊 [Summary slides](synthetic-data-medical-imaging/Synthetic_Data_in_Medical_Image_Analysis_Summary_Slides.pdf)
+
 `synthetic data` · `medical imaging` · `GANs` · `simulation` · `evaluation` · `clinical validity`
 
 ---
