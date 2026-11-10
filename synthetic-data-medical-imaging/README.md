@@ -4,7 +4,7 @@
 
 *Adapted from coursework for COP500 Research Methods (January 2026).*
 
-📄 [Download as PDF](Synthetic_Data_in_Medical_Image_Analysis.pdf)
+📄 [Download as PDF](Synthetic_Data_in_Medical_Image_Analysis.pdf) · 📊 [Summary slides](Synthetic_Data_in_Medical_Image_Analysis_Summary_Slides.pdf)
 
 ---
 
