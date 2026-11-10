@@ -1,0 +1,10 @@
+# Original coursework files (contain student ID) - never commit
+synthetic_medical_data_report.pdf
+synthetic_medical_data_report/
+
+# Working review files
+_review/
+
+# Source papers (publisher copyright) - local reference only
+Al Khalil et al.pdf
+Gao et al.pdf
